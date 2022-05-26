@@ -1,7 +1,7 @@
 # swipe-recyclerview
 Recyclerview With Swipe Left or Right
 
-Dependency : implementation 'com.github.xabaras:RecyclerViewSwipeDecorator:1.4'
+Dependency : `implementation 'com.github.xabaras:RecyclerViewSwipeDecorator:1.4'`
 
 <hr>
 Screenshot
